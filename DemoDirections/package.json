@@ -9,9 +9,18 @@
   "dependencies": {
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
+    "react-native-bottom-sheet-behavior": "^1.0.0",
+    "react-native-button": "^2.3.0",
+    "react-native-collapsing-toolbar": "^1.0.0-beta.9",
     "react-native-google-places": "^2.5.2",
+    "react-native-google-places-autocomplete": "^1.3.9",
     "react-native-maps": "^0.22.0",
-    "react-native-maps-directions": "^1.6.0"
+    "react-native-maps-directions": "^1.6.0",
+    "react-native-modalbox": "^1.6.0",
+    "react-native-nested-scroll-view": "^8.0.0",
+    "react-native-slider": "^0.11.0",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-wheel-picker": "^1.2.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
